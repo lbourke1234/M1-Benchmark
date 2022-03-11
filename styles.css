@@ -1,0 +1,49 @@
+table, td {
+    border: none;
+    border-collapse: collapse;
+    border: 1px solid black;
+    background-color: lightblue;
+    border-radius: 55px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+/* table tr:first-child {
+    border-radius: 5px 0 0 0;
+}
+table tr:last-child {
+    border-radius: 0 0 0 5px;
+} */
+
+body {
+    text-align: center;
+    max-width: 88%;
+}
+h1 {
+    text-align: center;
+}
+a {
+    color: green
+}
+.borderClass {
+    border: 10px
+}
+p {
+    margin-bottom: 10px;
+}
+.changeFontSizeAndTextWeight {
+    font-size: large;
+    font-weight: 600;
+}
+.hide {
+    display: none;
+}
+td {
+    border-color: green;
+}
+.td-background-color {
+    background-color: blueviolet;
+}
+.add-pink-border {
+    background-color: pink
+}
